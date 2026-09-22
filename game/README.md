@@ -4,12 +4,11 @@
 
 ## 怎么玩
 
-- 直接用浏览器打开 `ni-zhuan-zhenghuan-v1.html` 即可（手机/电脑都可）。
-- `assets/emotions/` 是 5 位主要角色的立绘资源（甄嬛、皇上、皇后、祺贵人、温实初），必须和 HTML 放在一起，相对路径引用。
-- 其他配角立绘、背景图、背景音乐（《逆转裁判1》Pursuit ~ Cornered）已内嵌在 HTML 里。
-- 新版本用新文件名（如 v2、v3），避免手机缓存旧版。
+- 直接打开 https://doctorblaza.github.io/AceZhenhuan/ 即可（手机/电脑都可）。
+- 仓库根目录的 `index.html` 就是最新完整版，不再保留历史版本文件，更新时直接覆盖这一个文件。
+- 立绘、背景图已全部内嵌在 HTML 里；开场曲为 YouTube 嵌入（Adam Kadmon《Betrayal Voices》），庭审配乐为《逆转裁判1》Pursuit ~ Cornered。
 
-## v1 说明
+## 玩法说明
 
 - 立绘背景透明，不再被对话框遮挡
 - 名字牌完整显示，不被切掉
